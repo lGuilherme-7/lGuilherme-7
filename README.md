@@ -1,16 +1,48 @@
-## Hi there 👋
+:
 
-<!--
-**lGuilherme-7/lGuilherme-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Eu sou Guilherme Silva
+🎯 Desenvolvedor Web | Estudante de ADS
 
-Here are some ideas to get you started:
+Sou um jovem de 18 anos, apaixonado por tecnologia e atualmente estudo de forma independente.
+Venho construindo minha base em desenvolvimento web, algoritmos, HTML & CSS, JavaScript, PHP, MySQL e criando projetos reais para meu portfólio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu objetivo é me tornar um Desenvolvedor Full Stack.
+
+🧠 Sobre mim
+
+Aprendo muito melhor na prática
+
+Adoro organizar conteúdos e transformar ideias em projetos reais
+
+Já desenvolvi sites como o Starbucks Clone e sigo evoluindo a cada projeto
+
+Tenho interesse especial em backend, APIs, sistemas web e futuramente mobile
+
+🛠️ Tecnologias que uso / estudo
+Frontend
+
+HTML • CSS • JavaScript (estudando)
+
+Backend
+
+PHP • Node.js • MySQL (aprendendo)
+
+Ferramentas
+
+Git • GitHub • VSCode
+
+📈 Objetivos para 2025
+
+Tornar-me Dev Full Stack
+
+Desenvolver 6+ projetos grandes
+
+Conquistar minha primeira vaga como desenvolvedor
+
+Alcançar inglês intermediário/avançado
+
+📫 Contato
+
+Email: ronaldguilherme044@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/guilherme-da-silva-5a8113334/

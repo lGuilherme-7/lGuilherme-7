@@ -6,18 +6,6 @@
 Sou um jovem de 18 anos, apaixonado por tecnologia e atualmente estudo de forma independente.
 Venho construindo minha base em desenvolvimento web, algoritmos, HTML & CSS, JavaScript, PHP, MySQL e criando projetos reais para meu portfólio.
 
-Meu objetivo é me tornar um Desenvolvedor Full Stack.
-
-🧠 Sobre mim
-
-Aprendo muito melhor na prática
-
-Adoro organizar conteúdos e transformar ideias em projetos reais
-
-Já desenvolvi sites como o Starbucks Clone e sigo evoluindo a cada projeto
-
-Tenho interesse especial em backend, APIs, sistemas web e futuramente mobile
-
 🛠️ Tecnologias que uso / estudo
 Frontend
 
@@ -31,9 +19,9 @@ Ferramentas
 
 Git • GitHub • VSCode
 
-📈 Objetivos para 2025
+📈 Objetivos
 
-Tornar-me Dev Full Stack
+Me tornar um Desenvolvedor Full Stack.
 
 Desenvolver 6+ projetos grandes
 

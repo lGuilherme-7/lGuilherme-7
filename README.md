@@ -1,5 +1,3 @@
-:
-
 👋 Olá! Eu sou Guilherme Silva
 🎯 Desenvolvedor Web | Estudante de ADS
 

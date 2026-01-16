@@ -4,12 +4,12 @@
 Sou um jovem de 18 anos, apaixonado por tecnologia e atualmente estudo de forma independente.
 Venho construindo minha base em desenvolvimento web, algoritmos, HTML & CSS, JavaScript, PHP, MySQL e criando projetos reais para meu portfólio.
 
-🛠️ Tecnologias que uso / estudo
+🛠️ Tecnologias que trabalho 
 Frontend
-HTML • CSS • JavaScript (estudando)
+HTML • CSS • JavaScript 
 
 Backend
-PHP • Node.js • MySQL (aprendendo)
+PHP • Node.js • MySQL 
 
 Ferramentas
 Git • GitHub • VSCode

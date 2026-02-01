@@ -6,10 +6,10 @@ Venho construindo minha base em desenvolvimento web, algoritmos, HTML & CSS, Jav
 
 🛠️ Tecnologias que trabalho 
 Frontend
-HTML • CSS • JavaScript 
+HTML • CSS 
 
 Backend
-PHP • Node.js • MySQL 
+PHP • MySQL • JavaScript 
 
 Ferramentas
 Git • GitHub • VSCode

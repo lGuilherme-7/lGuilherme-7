@@ -1,8 +1,8 @@
 👋 Olá! Eu sou Guilherme Silva
-🎯 Desenvolvedor Web | Estudante de ADS
+🎯 Desenvolvedor Web | Estudante de engenharia de software
 
 Sou um jovem de 18 anos, apaixonado por tecnologia e atualmente estudo de forma independente.
-Venho construindo minha base em desenvolvimento web, algoritmos, HTML & CSS, JavaScript, PHP, MySQL e criando projetos reais para meu portfólio.
+Venho construindo minha base em desenvolvimento web, algoritmos,HTML&CSS, Bootstrap5, JavaScript, Node.js, Python, PhP, Mysql, Tailwind e Laravel. e criando projetos reais para meu portfólio.
 
 🛠️ Tecnologias que trabalho 
 Frontend

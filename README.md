@@ -10,7 +10,10 @@ Frontend
 HTML • CSS 
 
 Backend
-PHP • MySQL • JavaScript 
+PHP • JavaScript 
+
+banco de dados
+MySQL
 
 Ferramentas
 Git • GitHub • VSCode
